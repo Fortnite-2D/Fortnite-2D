@@ -6,8 +6,7 @@
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
-        "arcade-split-screen": "github:riknoll/arcade-split-screen#eb1e1153531966cb88bac5a22ade793b8412e950",
-        "controller": "*"
+        "arcade-split-screen": "github:riknoll/arcade-split-screen#eb1e1153531966cb88bac5a22ade793b8412e950"
     },
     "files": [
         "main.blocks",
@@ -34,5 +33,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
