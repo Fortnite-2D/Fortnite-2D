@@ -1,8 +1,3 @@
- 
-
-
-> Open this page at [https://tech5g5g.github.io/fortnite-2d/](https://tech5g5g.github.io/fortnite-2d/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -25,4 +20,4 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/tech5g5g/fortnite-2d/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/fortnite-2d/fortnite-2d/raw/master/.github/makecode/blocks.png)
