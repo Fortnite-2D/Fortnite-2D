@@ -92,6 +92,7 @@ let Shoty = sprites.create(assets.image`Shoty`, SpriteKind.Weapon)
 Shoty.setScale(2, ScaleAnchor.Middle)
 Shoty.follow(mySprite, 500)
 blockSettings.writeNumber("mySpriteDirection", 4)
+blockSettings.remove("mySprite2Direction")
 game.onUpdate(function () {
     if (info.score() == 99) {
         if (Player2Exists == true) {
